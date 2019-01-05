@@ -1,7 +1,5 @@
 
-# coding: utf-8
 
-# # <center>Home Credit Default Risk Analysis</center>
 
 # **import libraries and data**
 
@@ -22,7 +20,7 @@ from data import trainAp11,trainAp115,trainAp12,trainAp125,trainAp13,trainAp14,t
 
 # ## Classification
 
-# Methods that we tend to use are logistic regression, RF, GBDT(how does GBDT work?) and Gradient boost Machine. (temp) 
+# Methods that we tend to use are logistic regression, RF, GBDT and Gradient boost Machine. (temp) 
 
 # ***Logistic Regression***
 
