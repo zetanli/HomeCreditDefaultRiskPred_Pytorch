@@ -32,7 +32,7 @@ for i1,i2 in gp:
 plt.legend()
 plt.show()
 
-##Maybe there exists high dimention trends.
+##Maybe there exist high dimention trends.
 ##3-D 
 mds3= MDS(n_components=3)
 X_transformed = mds3.fit_transform(x)
